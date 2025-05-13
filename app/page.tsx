@@ -7,7 +7,7 @@ export default function Page() {
         My Portfolio
       </h1>
       <p className="mb-4">
-        {`I'm Tomas Lönnblad and and i also like programing in all ways.
+        {`I'm Tomas Lönnblad and and i also like programing in all way.
         Going on class modules on router page and all cind of css styles.
         With beside to docker images whos staff has db and backend in the packed.`}
       </p>
